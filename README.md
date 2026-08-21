@@ -18,7 +18,7 @@ I'm currently studying for the CCNA and building a home lab with real Cisco gear
 
 ## Topology
 
-*(Add a diagram here — even a simple draw.io or hand-drawn one showing router, switches, host, and connections. Save it in `/images` and reference it below.)*
+![Network toplogy as of 2026-08-21](images/topology-diagram.png
 
 ```
 [Host PC / TFTP Server] --- [Switch 1] --- [Switch 2] --- [Router]
@@ -37,7 +37,7 @@ I'm currently studying for the CCNA and building a home lab with real Cisco gear
 ### ✅ Physical Setup
 - Crimped RJ45 cables to custom lengths for a cleaner physical lab setup
 - Connected 1 router and 2 Layer 2 switches into a working topology
-- *(photo: see `/images/cable-crimping.jpg`)*
+- *(photo: see `/images/RJ45 Crimping.jpg`)*
 
 ### ✅ Device Recovery
 - Performed **password recovery** on the router after forgetting the enable secret
@@ -77,11 +77,10 @@ Tracking progress against the official CCNA exam topics:
 ## Tools & Resources
 
 - Cisco IOS (physical hardware)
-- TFTP server software: *(name yours, e.g. SolarWinds TFTP, tftpd64)*
-- Study resources: *(e.g. Jeremy's IT Lab, Cisco Official Cert Guide, NetworkChuck)*
+- TFTP server software: *tftpd64*
+- Study resources: *Cisco CCNA 200-301: The Complete Guide to Getting Certifieda*
 
 ## Contact
 
-- LinkedIn: *(your link)*
-- Other portfolio links: *(optional)*
+- LinkedIn: *www.linkedin.com/in/yulaidi*
 
