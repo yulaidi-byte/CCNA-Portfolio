@@ -37,7 +37,7 @@ I'm currently studying for the CCNA and building a home lab with real Cisco gear
 ### ✅ Physical Setup
 - Crimped RJ45 cables to custom lengths for a cleaner physical lab setup
 - Connected 1 router and 2 Layer 2 switches into a working topology
-- *(photo: see `/images/RJ45 Crimping.jpg`)*
+- *[RJ45 crimping photo](images/rj45-crimping.jpg)*
 
 ### ✅ Device Recovery
 - Performed **password recovery** on the router after forgetting the enable secret
