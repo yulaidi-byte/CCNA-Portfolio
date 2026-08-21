@@ -18,7 +18,7 @@ I'm currently studying for the CCNA and building a home lab with real Cisco gear
 
 ## Topology
 
-![Network toplogy as of 2026-08-21](images/topology-diagram.png
+![Network toplogy as of 2026-08-21](images/topology-diagram.png)
 
 ```
 [Host PC / TFTP Server] --- [Switch 1] --- [Switch 2] --- [Router]
